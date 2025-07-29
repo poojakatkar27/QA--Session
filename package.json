@@ -1,0 +1,22 @@
+{
+  "name": "qa--session",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojakatkar27/QA--Session.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poojakatkar27/QA--Session/issues"
+  },
+  "homepage": "https://github.com/poojakatkar27/QA--Session#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
